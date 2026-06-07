@@ -1,5 +1,5 @@
 [package]
-name = "motion-planning"
+name = "robo-motion-planning"
 version = "0.1.0"
 edition = "2021"
 description = "Motion planning algorithms: RRT, potential fields, and A* path planning in 2D"
