@@ -1,0 +1,12 @@
+[package]
+name = "motion-planning"
+version = "0.1.0"
+edition = "2021"
+description = "Motion planning algorithms: RRT, potential fields, and A* path planning in 2D"
+license = "MIT"
+repository = "https://github.com/SuperInstance/motion-planning"
+keywords = ["motion", "planning", "rrt", "astar", "robotics"]
+categories = ["science::robotics", "algorithms"]
+readme = "README.md"
+
+[dependencies]
